@@ -61,9 +61,7 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "devDependencies": {
-    ...
-  }
+
 
   },
   "devDependencies": {
