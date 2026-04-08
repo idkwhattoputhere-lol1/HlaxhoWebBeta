@@ -55,6 +55,16 @@
     "tailwind-merge": "^3.4.0",
     "vaul": "^1.1.2",
     "zod": "^4.3.5"
+    {
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    ...
+  }
+
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
